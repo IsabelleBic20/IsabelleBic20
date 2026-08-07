@@ -1,4 +1,4 @@
-# Olá! 👋 Sou Isabelle
+# Olá! Sou Isabelle
 
 **Engenheira de Software & Cientista de Dados | .NET • Python • Deep Learning | Publicação Científica**
 
