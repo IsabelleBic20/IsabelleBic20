@@ -213,7 +213,7 @@ Mentoria e suporte técnico no aprendizado de algoritmos
 
 ## 💡 Valores & Filosofia
 
-🎯 **Qualidade sobre Quantidade** — Prefiro menos código bem-feito  
+🎯 **Qualidade sobre Quantidade** — Código limpo, bem estruturado e manutenível
 📚 **Aprendizado Contínuo** — Mestrado + certificações + sempre estudando  
 🤝 **Excelência Técnica** — SOLID, Clean Code, arquitetura escalável  
 🔍 **Atenção aos Detalhes** — Tanto em código quanto em testes  
