@@ -161,7 +161,7 @@ Sistema completo para clínicas veterinárias:
 - Painel administrativo
 - **Tech:** C#, .NET, SQL Server, Backend Architecture
 
-**Aplicação:** Sistema pronto para produção
+**Aplicação:** https://vet.gfcode.com.br/login
 
 ---
 
