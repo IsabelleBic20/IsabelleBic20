@@ -200,29 +200,6 @@ Technical mentorship & algorithm learning support
 
 ---
 
-## 💭 Philosophy
-
-> "Great software is built on solid architecture, continuous learning, and meticulous attention to detail."
-
-✨ **Continuous Learning** — Masters degree + constant skill development  
-🎯 **Technical Excellence** — SOLID, Clean Code, scalable architecture  
-🔍 **Precision** — Both in code quality and testing rigor  
-🚀 **Real Impact** — Published research + production solutions  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabelleBic20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleBic20&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaboration on:
@@ -240,10 +217,10 @@ I'm always open to collaboration on:
 
 <br/>
 
-**Let's build something amazing together!** 🚀
+**Let's build something amazing together!** 
 
 ---
 
-<sub>Last updated: September 2024 | Always learning, always building 💪</sub>
+<sub>Last updated: September 2026 | Always learning, always building </sub>
 
 </div>
