@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Isabelle Bicudo
+# Hi, I'm Isabelle Bicudo
 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+Deep+Learning;Published+Computer+Vision+Research)](https://github.com/IsabelleBic20)
 
-  **Building scalable software & advancing AI through research** 🚀
+  **Building scalable software & advancing AI through research** 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=IsabelleBic20&color=00D9FF&style=flat-square)
   ![GitHub followers](https://img.shields.io/github/followers/IsabelleBic20?style=flat-square&color=00D9FF)
