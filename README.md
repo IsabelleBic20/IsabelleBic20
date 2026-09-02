@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 **Software Engineer & AI/ML Researcher** passionate about building production-grade systems and solving complex problems with machine learning. Currently pursuing a **Master's in Computer Science** at UFMS with published peer-reviewed research in computer vision.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 <table>
   <tr>
@@ -49,7 +49,7 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Software Engineer @ Exbe Technology**
 *Nov 2024 – Apr 2026 | Campo Grande, MS*
@@ -75,7 +75,7 @@
 
 ---
 
-## 🎓 Academic Highlight: Published Research
+## Academic Highlight: Published Research
 
 ### **Semantic Segmentation in Aerial Orthophotos**
 *Peer-reviewed publication | UFMS*
@@ -91,7 +91,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & API Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -127,7 +127,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🐜 **[Anthill Segmentation](https://github.com/IsabelleBic20/anthill-segmentation)** — *Published Research*
 Deep learning solution for automated anthill detection in aerial imagery
@@ -163,7 +163,7 @@ Full-featured veterinary clinic management with automated alerts
 
 ---
 
-## 📈 What I Do
+## What I Do
 
 | Area | Expertise |
 |------|-----------|
@@ -177,7 +177,7 @@ Full-featured veterinary clinic management with automated alerts
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Science in Computer Science**  
 🏫 Federal University of Mato Grosso do Sul (UFMS) | 2024 – Present
@@ -190,7 +190,7 @@ Full-featured veterinary clinic management with automated alerts
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 🏆 **Data Science & Power BI Modeling** (125 hours)  
 ETL, Dashboard Development, KPI Analysis, Business Intelligence
@@ -200,7 +200,7 @@ Technical mentorship & algorithm learning support
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to collaboration on:
 - 💻 Full-stack software projects
