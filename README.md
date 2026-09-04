@@ -87,7 +87,7 @@
 - 🔬 **Tech Stack:** Python, PyTorch, TensorFlow, OpenCV, Jupyter
 - 📈 **Impact:** Applicable to precision agriculture & remote sensing
 
-**🔗 Repository:** [anthill-segmentation](https://github.com/IsabelleBic20/anthill-segmentation)
+**🔗 Repository:** [anthill-segmentation](https://repositorio.ufms.br/handle/123456789/14577 )
 
 ---
 
@@ -131,7 +131,7 @@
 
 ---
 
-### 🐜 **[Anthill Segmentation](https://github.com/IsabelleBic20/anthill-segmentation)** — *Published Research*
+### 🐜 **[Anthill Segmentation](https://repositorio.ufms.br/handle/123456789/14577 )** — *Published Research*
 Deep learning solution for automated anthill detection in aerial imagery
 - **Achievement:** Peer-reviewed publication with 89% F1-Score
 - **Architecture:** U-Net with skip connections, hybrid loss function
