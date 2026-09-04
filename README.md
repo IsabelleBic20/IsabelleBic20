@@ -149,7 +149,7 @@ Production-oriented platform for intelligent job discovery, resume optimization,
 - **Tech:** Python, FastAPI, React, TypeScript, SQLite, Playwright, Docker, Gemini API, SMTP
 
 ---
-### 💉 **[VetVaccination System](https://github.com/IsabelleBic20/VetVaccination_system)** — *Production Application*
+### 💉 **[VetVaccination System](https://vet.gfcode.com.br/login)** — *Production Application*
 Full-featured veterinary clinic management with automated alerts
 - **Features:** Animal registry, vaccination tracking, automatic reminders, reporting
 - **Deployment:** Live at https://vet.gfcode.com.br/login
