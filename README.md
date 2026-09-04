@@ -129,12 +129,32 @@
 
 ## Featured Projects
 
+---
+
 ### 🐜 **[Anthill Segmentation](https://github.com/IsabelleBic20/anthill-segmentation)** — *Published Research*
 Deep learning solution for automated anthill detection in aerial imagery
 - **Achievement:** Peer-reviewed publication with 89% F1-Score
 - **Architecture:** U-Net with skip connections, hybrid loss function
 - **Dataset:** 1,000+ aerial images with cross-validation
 - **Tech:** Python, PyTorch, TensorFlow, Jupyter
+
+---
+
+### 🤖 **[CV-Sender](https://cv.gfcode.com.br/)** — *AI-Powered Job Intelligence & Application Platform*
+Production-oriented platform for intelligent job discovery, resume optimization, ATS analysis, compatibility scoring, and controlled application automation
+- **Intelligent Matching:** Weighted resume × job compatibility analysis using required skills, preferred skills, experience, seniority and education
+- **Decision System:** Threshold-based scoring with explainable compatibility results and requirement gap analysis
+- **AI:** Semantic resume analysis, contextual resume optimization and AI-generated cover letters
+- **Automation:** Playwright-based browser automation with provider architecture, application evidence and controlled execution
+- **Tech:** Python, FastAPI, React, TypeScript, SQLite, Playwright, Docker, Gemini API, SMTP
+
+---
+### 💉 **[VetVaccination System](https://github.com/IsabelleBic20/VetVaccination_system)** — *Production Application*
+Full-featured veterinary clinic management with automated alerts
+- **Features:** Animal registry, vaccination tracking, automatic reminders, reporting
+- **Deployment:** Live at https://vet.gfcode.com.br/login
+- **Tech:** C#, .NET, SQL Server, Admin dashboard
+- **Impact:** Real-world veterinary clinic solution
 
 ---
 
@@ -154,14 +174,7 @@ Complete nutritional analysis system for educational institutions
 
 ---
 
-### 💉 **[VetVaccination System](https://github.com/IsabelleBic20/VetVaccination_system)** — *Production Application*
-Full-featured veterinary clinic management with automated alerts
-- **Features:** Animal registry, vaccination tracking, automatic reminders, reporting
-- **Deployment:** Live at https://vet.gfcode.com.br/login
-- **Tech:** C#, .NET, SQL Server, Admin dashboard
-- **Impact:** Real-world veterinary clinic solution
 
----
 
 ## What I Do
 
