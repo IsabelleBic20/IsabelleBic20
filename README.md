@@ -198,7 +198,7 @@ Complete nutritional analysis system for educational institutions
 | Area | Expertise |
 |------|-----------|
 | **Full-Stack Development** | C#/.NET backend + Angular/Next.js frontend + SQL Server/MySQL |
-| **Data Engineering** | Ralph Kimball Star Schema DW, automated Python ETL pipelines, OLAP analytics, Docker |
+| **Data Engineering** | Automated Python ETL pipelines, OLAP analytics, Docker |
 | **API Design** | RESTful architecture, SOLID principles, scalable integrations, Clean Architecture |
 | **Machine Learning & AI** | Computer vision, semantic segmentation (U-Net), predictive modeling, time-series clustering |
 | **Quality Assurance** | E2E, unit, integration testing (Pytest, Jest, Cypress); CI/CD automation |
