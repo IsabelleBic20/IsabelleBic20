@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+Deep+Learning;Published+Computer+Vision+Research)](https://github.com/IsabelleBic20)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+Deep+Learning;Data+Warehouse+%26+ML+Analytics;Published+Computer+Vision+Research)](https://github.com/IsabelleBic20)
 
-  **Building scalable software & advancing AI through research** 
+  **Building scalable software, enterprise data warehouses & advancing AI through research** 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=IsabelleBic20&color=00D9FF&style=flat-square)
   ![GitHub followers](https://img.shields.io/github/followers/IsabelleBic20?style=flat-square&color=00D9FF)
@@ -15,13 +15,13 @@
 
 ## About Me
 
-**Software Engineer & AI/ML Researcher** passionate about building production-grade systems and solving complex problems with machine learning. Currently pursuing a **Master's in Computer Science** at UFMS with published peer-reviewed research in computer vision.
+**Software Engineer & AI/ML Researcher** passionate about building production-grade systems, dimensional data warehouses, and solving complex problems with machine learning. Currently pursuing a **Master's in Computer Science** at UFMS with published peer-reviewed research in computer vision.
 
 - 🏢 **Professional:** Full-Stack Developer @ Exbe Technology (Nov 2024 - Apr 2026)
-- 📚 **Academic:** M.Sc. Computer Science @ UFMS | Published researcher in semantic segmentation
+- 📚 **Academic:** M.Sc. Computer Science @ UFMS | Published researcher in semantic segmentation & deep learning
 - 🎓 **Education:** B.S. Information Systems @ UFMS
 - 📍 **Location:** Campo Grande, MS - Brazil
-- 💡 **Focus:** Full-Stack Development + AI/ML + Software Architecture
+- 💡 **Focus:** Full-Stack Development (.NET / Angular / Next.js) + AI/ML + Data Warehouse & Analytics Engineering
 
 ---
 
@@ -29,20 +29,25 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>📊 Peer-Reviewed Research</b><br/>
-      Published U-Net semantic segmentation model<br/>
+      Published U-Net semantic segmentation<br/>
       <code>F1: 89% | IoU: 85%</code>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <b>🏛️ Data Engineering & DW</b><br/>
+      Kimball Star Schema DW + ML<br/>
+      <code>+16% Graduation Uplift Model</code>
+    </td>
+    <td align="center" width="25%">
       <b>🚀 Production Systems</b><br/>
       ASP.NET Core APIs + Angular/Next.js<br/>
       Full-Stack enterprise applications
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <b>✅ Quality Assurance</b><br/>
       E2E, Unit, Integration Testing<br/>
-      CI/CD pipelines & Code Review expert
+      CI/CD pipelines & Code Review
     </td>
   </tr>
 </table>
@@ -57,13 +62,13 @@
 **Backend & APIs**
 - Architected RESTful APIs using **ASP.NET Core** with Entity Framework
 - Implemented SOLID principles & Clean Architecture patterns
-- SQL Server database design & optimization
-- Git/GitHub CI/CD workflows
+- SQL Server database design, relational modeling & query optimization
+- Git/GitHub CI/CD workflows and automated deployments
 
 **Frontend Development**
 - Built responsive components in **Angular** and **Next.js**
-- TypeScript, HTML5, CSS3 with focus on UX
-- Code refactoring for performance & maintainability
+- TypeScript, HTML5, CSS3 with a strong focus on UX/UI performance
+- Code refactoring for modularity, reusability & maintainability
 
 **Quality Assurance**
 - E2E testing (critical workflows), Unit & Integration testing
@@ -87,7 +92,7 @@
 - 🔬 **Tech Stack:** Python, PyTorch, TensorFlow, OpenCV, Jupyter
 - 📈 **Impact:** Applicable to precision agriculture & remote sensing
 
-**🔗 Repository:** [anthill-segmentation](https://repositorio.ufms.br/handle/123456789/14577 )
+**🔗 Repository:** [anthill-segmentation](https://repositorio.ufms.br/handle/123456789/14577)
 
 ---
 
@@ -111,19 +116,23 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Databases & BI
+### Data Engineering & Databases
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Quality Assurance & DevOps
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -131,7 +140,16 @@
 
 ---
 
-### 🐜 **[Anthill Segmentation](https://repositorio.ufms.br/handle/123456789/14577 )** — *Published Research*
+### 🎓 **[Higher Education Retention & Data Warehouse Platform](https://github.com/IsabelleBic20/higher-ed-retention-data-warehouse)** — *Data Engineering & Predictive ML*
+End-to-end analytical Data Warehouse and Machine Learning platform modeling higher education dropout and retention dynamics using official Brazilian public microdata (IBGE & INEP).
+- **Dimensional DW Architecture:** Ralph Kimball Star Schema (`dim_uf`, `dim_tempo`, `dim_universidades`, `dim_cursos`, `fato_indicadores_economicos`, `fato_indicadores_academicos`) with high-performance batch ETL.
+- **Machine Learning & Simulation:** Time-series feature extraction (slope, autocorrelation, dominant frequency) + K-Means clustering (PCA), and counterfactual MLP Neural Network modeling.
+- **Key Finding:** Proved an empirical **+16.0% relative increase in university graduation likelihood** for students receiving socioeconomic assistance across all 27 Brazilian states.
+- **Tech:** Python, MySQL 8, Docker Compose, Scikit-Learn, Pandas, Pytest, GitHub Actions CI/CD.
+
+---
+
+### 🐜 **[Anthill Segmentation](https://repositorio.ufms.br/handle/123456789/14577)** — *Published Research*
 Deep learning solution for automated anthill detection in aerial imagery
 - **Achievement:** Peer-reviewed publication with 89% F1-Score
 - **Architecture:** U-Net with skip connections, hybrid loss function
@@ -149,6 +167,7 @@ Production-oriented platform for intelligent job discovery, resume optimization,
 - **Tech:** Python, FastAPI, React, TypeScript, SQLite, Playwright, Docker, Gemini API, SMTP
 
 ---
+
 ### 💉 **[VetVaccination System](https://vet.gfcode.com.br/login)** — *Production Application*
 Full-featured veterinary clinic management with automated alerts
 - **Features:** Animal registry, vaccination tracking, automatic reminders, reporting
@@ -174,19 +193,17 @@ Complete nutritional analysis system for educational institutions
 
 ---
 
-
-
 ## What I Do
 
 | Area | Expertise |
 |------|-----------|
-| **Full-Stack Development** | C#/.NET backend + Angular/Next.js frontend + SQL databases |
-| **API Design** | RESTful architecture, SOLID principles, scalable integrations |
-| **Machine Learning** | Computer vision, semantic segmentation, deep learning pipelines |
-| **Quality Assurance** | E2E, unit, integration testing; CI/CD automation |
-| **Architecture** | Design patterns, Clean Code, modular systems, SOLID |
-| **Data Engineering** | ETL pipelines, Power BI analytics, data visualization |
-| **Agile Practices** | Scrum/Kanban, code reviews, continuous integration |
+| **Full-Stack Development** | C#/.NET backend + Angular/Next.js frontend + SQL Server/MySQL |
+| **Data Engineering** | Ralph Kimball Star Schema DW, automated Python ETL pipelines, OLAP analytics, Docker |
+| **API Design** | RESTful architecture, SOLID principles, scalable integrations, Clean Architecture |
+| **Machine Learning & AI** | Computer vision, semantic segmentation (U-Net), predictive modeling, time-series clustering |
+| **Quality Assurance** | E2E, unit, integration testing (Pytest, Jest, Cypress); CI/CD automation |
+| **Architecture** | Design patterns (GoF), Clean Code, modular systems, DDD, 12-Factor App |
+| **Agile Practices** | Scrum/Kanban, code reviews, continuous integration & delivery |
 
 ---
 
@@ -208,7 +225,7 @@ Complete nutritional analysis system for educational institutions
 🏆 **Data Science & Power BI Modeling** (125 hours)  
 ETL, Dashboard Development, KPI Analysis, Business Intelligence
 
-👩‍🏫 **Programming Logic Mentor** @ UFMS  
+👩🏫 **Programming Logic Mentor** @ UFMS  
 Technical mentorship & algorithm learning support
 
 ---
@@ -218,7 +235,7 @@ Technical mentorship & algorithm learning support
 I'm always open to collaboration on:
 - 💻 Full-stack software projects
 - 🤖 AI/ML & computer vision initiatives
-- 🏗️ Architecture & system design discussions
+- 🏛️ Data Warehouse & Data Engineering architectures
 - 🎓 Research collaborations
 - 🚀 Innovative tech solutions
 
