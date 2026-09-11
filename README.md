@@ -158,7 +158,7 @@ Deep learning solution for automated anthill detection in aerial imagery
 
 ---
 
-### 📦 **[Supply Chain BI & Data Quality](https://github.com/IsabelleBic20/supply-chain-bi)** — *Data Stewardship & Business Intelligence*
+### 📦 **[Supply Chain BI & Data Quality](https://github.com/IsabelleBic20/supply_chain_bi_phase1)** — *Data Stewardship & Business Intelligence*
 
 End-to-end Supply Chain BI project simulating real-world data quality, governance, analytical modeling, and operational reporting challenges.
 
