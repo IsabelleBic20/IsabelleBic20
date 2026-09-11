@@ -158,6 +158,20 @@ Deep learning solution for automated anthill detection in aerial imagery
 
 ---
 
+### 📦 **[Supply Chain BI & Data Quality](https://github.com/IsabelleBic20/supply-chain-bi)** — *Data Stewardship & Business Intelligence*
+
+End-to-end Supply Chain BI project simulating real-world data quality, governance, analytical modeling, and operational reporting challenges.
+
+- **Data Quality & Governance:** SQL-based profiling across completeness, uniqueness, validity, consistency, standardization, and referential integrity, with documented DQ rules and root-cause analysis.
+- **Analytical Data Modeling:** Staging layer and Kimball-style Star Schema with `fct_orders`, `fct_deliveries`, and customer, product, warehouse, supplier, and carrier dimensions.
+- **BI & Metrics:** Tableau dashboard covering order performance, delivery execution, transport costs, operational status, and data quality monitoring.
+- **Key Findings:** Identified and governed duplicate records, missing/orphan customer references, negative quantities, inconsistent order values, invalid delivery dates, missing transport costs, and non-standardized status values.
+- **Data Stewardship:** Raw data preserved as immutable; downstream transformations are reproducible, traceable, and documented through explicit DQ flags and business rules.
+- **Dashboard:** [View the interactive Tableau Public dashboard](https://public.tableau.com/views/SupplyChainBI/SupplyChainBIOperationsDataQuality)
+- **Tech:** DuckDB, SQL, Python/Pandas, Tableau Public, Git/GitHub, Markdown.
+
+---
+
 ### 🤖 **[CV-Sender](https://cv.gfcode.com.br/)** — *AI-Powered Job Intelligence & Application Platform*
 Production-oriented platform for intelligent job discovery, resume optimization, ATS analysis, compatibility scoring, and controlled application automation
 - **Intelligent Matching:** Weighted resume × job compatibility analysis using required skills, preferred skills, experience, seniority and education
@@ -174,14 +188,6 @@ Full-featured veterinary clinic management with automated alerts
 - **Deployment:** Live at https://vet.gfcode.com.br/login
 - **Tech:** C#, .NET, SQL Server, Admin dashboard
 - **Impact:** Real-world veterinary clinic solution
-
----
-
-### 🏛️ **[Design Patterns Playground](https://github.com/IsabelleBic20/java-design-patterns-playground)** — *Architecture Study*
-Comprehensive implementation of 23 GoF design patterns
-- **Coverage:** Creational, Structural & Behavioral patterns
-- **Includes:** UML diagrams, real-world examples, unit tests
-- **Tech:** Java, object-oriented design, architectural patterns
 
 ---
 
