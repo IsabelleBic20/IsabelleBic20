@@ -172,31 +172,12 @@ End-to-end Supply Chain BI project simulating real-world data quality, governanc
 
 ---
 
-### 🤖 **[CV-Sender](https://cv.gfcode.com.br/)** — *AI-Powered Job Intelligence & Application Platform*
-Production-oriented platform for intelligent job discovery, resume optimization, ATS analysis, compatibility scoring, and controlled application automation
-- **Intelligent Matching:** Weighted resume × job compatibility analysis using required skills, preferred skills, experience, seniority and education
-- **Decision System:** Threshold-based scoring with explainable compatibility results and requirement gap analysis
-- **AI:** Semantic resume analysis, contextual resume optimization and AI-generated cover letters
-- **Automation:** Playwright-based browser automation with provider architecture, application evidence and controlled execution
-- **Tech:** Python, FastAPI, React, TypeScript, SQLite, Playwright, Docker, Gemini API, SMTP
-
----
-
 ### 💉 **[VetVaccination System](https://vet.gfcode.com.br/login)** — *Production Application*
 Full-featured veterinary clinic management with automated alerts
 - **Features:** Animal registry, vaccination tracking, automatic reminders, reporting
 - **Deployment:** Live at https://vet.gfcode.com.br/login
 - **Tech:** C#, .NET, SQL Server, Admin dashboard
 - **Impact:** Real-world veterinary clinic solution
-
----
-
-### 🍽️ **[School Meal Management System](https://github.com/IsabelleBic20/school-meal-management-system)** — *Backend Application*
-Complete nutritional analysis system for educational institutions
-- **Features:** CRUD operations, automatic nutritional calculations, reporting
-- **Database:** Normalized relational model with optimized queries
-- **Tech:** Java, Spring Boot, MySQL, REST APIs
-
 ---
 
 ## What I Do
