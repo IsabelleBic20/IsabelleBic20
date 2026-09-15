@@ -13,7 +13,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/IsabelleBic20">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+Deep+Learning;Data+Warehouse+%26+ML+Analytics;Published+Computer+Vision+Research" alt="typing banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=880&lines=Published+U-Net+Computer+Vision+Research;Software+Engineer+%26+AI+Researcher;Full-Stack+Developer+%7C+Deep+Learning;Data+Warehouse+%26+ML+Analytics" alt="typing banner">
 </a>
 
 <br>
@@ -71,6 +71,57 @@
       <b>✅ Quality Assurance</b><br/>
       E2E, Unit, Integration Testing<br/>
       CI/CD pipelines & Code Review
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Academic Highlight & Flagship Research
+
+<div align="center">
+
+### 🐜 **Semantic Segmentation in Aerial Orthophotos**
+*Peer-Reviewed Scientific Publication | Federal University of Mato Grosso do Sul (UFMS)*
+
+[![UFMS Repository](https://img.shields.io/badge/UFMS_Repository-Published_Paper-00D9FF?style=for-the-badge&logo=googlescholar&logoColor=black)](https://repositorio.ufms.br/handle/123456789/14577)
+[![F1-Score](https://img.shields.io/badge/F1--Score-89%25-10B981?style=for-the-badge&logo=target&logoColor=white)](https://repositorio.ufms.br/handle/123456789/14577)
+[![IoU](https://img.shields.io/badge/IoU-85%25-7C3AED?style=for-the-badge)](https://repositorio.ufms.br/handle/123456789/14577)
+[![Dataset](https://img.shields.io/badge/Dataset-1%2C000%2B_Aerial_Images-FF6F00?style=for-the-badge)](https://repositorio.ufms.br/handle/123456789/14577)
+[![Domain](https://img.shields.io/badge/Domain-Precision_Agriculture-239120?style=for-the-badge)](https://repositorio.ufms.br/handle/123456789/14577)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-anthill-segmentation-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-anthill-segmentation-light.svg">
+  <img src="assets/card-anthill-segmentation-dark.svg" width="600" alt="Anthill Segmentation Card">
+</picture>
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎯 The Challenge</b><br/>
+      Automated bioindicator detection and pixel-level localization of anthills in high-resolution aerial imagery for environmental monitoring and precision agriculture across Brazilian farmlands.
+    </td>
+    <td width="50%" valign="top">
+      <b>🧠 Deep Learning Solution</b><br/>
+      Custom <b>U-Net convolutional architecture</b> with encoder-decoder skip connections and a hybrid loss function formulated to overcome extreme pixel-level class imbalance.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📊 Benchmark Results</b><br/>
+      • <b>F1-Score: 89%</b> | <b>IoU: 85%</b><br/>
+      • Validated on a verified dataset of <b>1,000+ aerial orthophotos</b> with cross-validation.
+    </td>
+    <td width="50%" valign="top">
+      <b>🔬 Tech Stack & Impact</b><br/>
+      • <b>Tech:</b> Python, PyTorch, TensorFlow, OpenCV, Jupyter, NumPy<br/>
+      • <b>Impact:</b> Direct application to remote sensing, environmental bioindication, and precision agriculture.<br/>
+      • 🔗 <b>Repository:</b> <a href="https://repositorio.ufms.br/handle/123456789/14577"><b>UFMS Institutional Repository</b></a>
     </td>
   </tr>
 </table>
@@ -136,22 +187,6 @@
 
 ---
 
-## Academic Highlight: Published Research
-
-### **Semantic Segmentation in Aerial Orthophotos**
-*Peer-reviewed publication | UFMS*
-
-**The Challenge:** Automated anthill detection in aerial imagery for agricultural monitoring
-
-**The Solution:** U-Net deep learning architecture with hybrid loss function
-- 📊 **Results:** F1-Score 89%, IoU 85% on 1,000+ aerial images
-- 🔬 **Tech Stack:** Python, PyTorch, TensorFlow, OpenCV, Jupyter
-- 📈 **Impact:** Applicable to precision agriculture & remote sensing
-
-**🔗 Repository:** [anthill-segmentation](https://repositorio.ufms.br/handle/123456789/14577)
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -196,7 +231,7 @@
 
 ---
 
-## Featured Projects
+## Featured Engineering & BI Projects
 
 <table>
 <tr>
@@ -243,24 +278,13 @@ End-to-end Supply Chain BI project simulating real-world data quality, governanc
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🐜 **[Anthill Segmentation](https://repositorio.ufms.br/handle/123456789/14577)** — *Published Research*
-Deep learning solution for automated anthill detection in aerial imagery
-- **Achievement:** Peer-reviewed publication with 89% F1-Score
-- **Architecture:** U-Net with skip connections, hybrid loss function
-- **Dataset:** 1,000+ aerial images with cross-validation
-- **Tech:** Python, PyTorch, TensorFlow, Jupyter
-
-</td>
-<td width="50%" valign="top">
-
-### 💉 **[VetVaccination System](https://vet.gfcode.com.br/login)** — *Production Application*
-Full-featured veterinary clinic management with automated alerts
-- **Features:** Animal registry, vaccination tracking, automatic reminders, reporting
-- **Deployment:** Live at https://vet.gfcode.com.br/login
-- **Tech:** C#, .NET, SQL Server, Admin dashboard
-- **Impact:** Real-world veterinary clinic solution
+### 💉 **[VetVaccination System](https://vet.gfcode.com.br/login)** — *Production Enterprise Application*
+Full-featured veterinary clinic management with automated vaccination alert schedules, patient logs, and diagnostic dashboards.
+- **Architecture & Reliability:** Modular ASP.NET Core REST APIs, Clean Architecture, SQL Server relational database, and responsive web interface.
+- **Deployment:** Live at [vet.gfcode.com.br/login](https://vet.gfcode.com.br/login)
+- **Tech:** C#, .NET 8, ASP.NET Core, Entity Framework Core, SQL Server.
 
 </td>
 </tr>

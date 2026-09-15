@@ -2,6 +2,10 @@
   "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
   "projects": [
     {
+      "repo": "anthill-segmentation",
+      "description": "Published peer-reviewed research (UFMS): U-Net deep learning semantic segmentation for automated bioindicator detection in aerial imagery (89% F1-Score, 85% IoU)."
+    },
+    {
       "repo": "higher-ed-retention-data-warehouse",
       "description": "Dimensional DW (Ralph Kimball Star Schema) & ML platform modeling higher education dropout and retention with Brazilian microdata (+16% graduation uplift)."
     },

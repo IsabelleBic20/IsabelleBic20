@@ -185,9 +185,9 @@ def generate_neural_mesh(theme: str) -> str:
 
     # Live telemetry data in left panel
     parts.extend([
-        f'<rect x="60" y="475" width="310" height="42" rx="4" fill="{t["panel_bg"]}" stroke="{t["panel_border"]}" stroke-width="1" opacity="0.9"/>',
-        f'<text x="72" y="492" fill="{t["accent"]}" font-family="{FONT_MONO}" font-size="9.5" font-weight="700">● NODE BR-MS-01 ACTIVE</text>',
-        f'<text x="72" y="506" fill="{t["muted"]}" font-family="{FONT_MONO}" font-size="8.5">U-NET F1: 89% · IoU: 85% · DW: KIMBALL</text>',
+        f'<rect x="50" y="472" width="330" height="46" rx="5" fill="{t["panel_bg"]}" stroke="{t["panel_border"]}" stroke-width="1" opacity="0.95"/>',
+        f'<text x="62" y="490" fill="{t["accent"]}" font-family="{FONT_MONO}" font-size="9.5" font-weight="700">● FLAGSHIP: U-NET CV RESEARCH</text>',
+        f'<text x="62" y="506" fill="{t["muted"]}" font-family="{FONT_MONO}" font-size="8.5">F1: 89% · IoU: 85% · 1,000+ AERIAL IMAGES · UFMS</text>',
     ])
 
     return "".join(parts)
