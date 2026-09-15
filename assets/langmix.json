@@ -1,0 +1,12 @@
+{
+  "title": "Language & Stack Mix",
+  "_comment": "Hand-authored stack radar. Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "C# / .NET",     "value": 95 },
+    { "label": "Python",        "value": 92 },
+    { "label": "SQL",           "value": 90 },
+    { "label": "TypeScript",    "value": 88 },
+    { "label": "JavaScript",    "value": 85 },
+    { "label": "HTML / CSS",    "value": 85 }
+  ]
+}

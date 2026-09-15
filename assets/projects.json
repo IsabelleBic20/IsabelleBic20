@@ -1,0 +1,13 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "higher-ed-retention-data-warehouse",
+      "description": "Dimensional DW (Ralph Kimball Star Schema) & ML platform modeling higher education dropout and retention with Brazilian microdata (+16% graduation uplift)."
+    },
+    {
+      "repo": "supply_chain_bi_phase1",
+      "description": "End-to-end Supply Chain BI with SQL data quality profiling, Kimball-style Star Schema (fct_orders, fct_deliveries) and Tableau dashboard."
+    }
+  ]
+}

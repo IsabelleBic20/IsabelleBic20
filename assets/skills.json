@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "ASP.NET Core & C#",      "value": 95 },
+    { "label": "Deep Learning & CV",      "value": 92 },
+    { "label": "Data Warehouse & ETL",    "value": 90 },
+    { "label": "Relational Databases",    "value": 90 },
+    { "label": "Angular & Next.js",       "value": 88 },
+    { "label": "QA & Testing (E2E/Unit)", "value": 88 },
+    { "label": "CI/CD & DevOps",          "value": 82 }
+  ]
+}
